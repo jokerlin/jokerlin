@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**jokerlin/jokerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://jokerlin.us">me</a> .
+    <a href="https://jokerlin.us/blog">blog</a> .
+    <a href="https://photos.jokerlin.us">photos</a> .
+    <a href="https://jokerlin.us/projects">projects</a> .
+    <a href="https://github.com/jokerlin">github</a> .
+    <a href="https://x.com/jokerlinheng">twitter</a>
+  </samp>
+</p>
